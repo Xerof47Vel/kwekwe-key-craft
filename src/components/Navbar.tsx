@@ -40,7 +40,7 @@ const Navbar = () => {
         </nav>
 
         <div className="hidden items-center gap-3 md:flex">
-          <a href="tel:+263771234567">
+          <a href="tel:+263772969036">
             <Button size="sm" className="gap-2 bg-primary text-primary-foreground hover:bg-primary/90">
               <Phone className="h-4 w-4" />
               Call Now
@@ -80,7 +80,7 @@ const Navbar = () => {
                   {link.label}
                 </Link>
               ))}
-              <a href="tel:+263771234567" className="mt-2">
+              <a href="tel:+263772969036" className="mt-2">
                 <Button className="w-full gap-2 bg-primary text-primary-foreground">
                   <Phone className="h-4 w-4" />
                   Call Now

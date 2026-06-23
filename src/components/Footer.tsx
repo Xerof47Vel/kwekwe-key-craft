@@ -11,7 +11,7 @@ const Footer = () => (
             Kwekwe Key Centre
           </Link>
           <p className="mt-3 text-sm text-primary-foreground/70">
-            Your trusted locksmith partner in Kwekwe, Zimbabwe. Professional key cutting, lock installation, and emergency services.
+            Your trusted locksmith partner in Shop 1, Shumba Hotel, Kwekwe, Midlands, Zimbabwe. Professional key cutting, lock installation, and emergency services.
           </p>
         </div>
 
@@ -40,15 +40,15 @@ const Footer = () => (
           <ul className="mt-3 space-y-3 text-sm text-primary-foreground/80">
             <li className="flex items-center gap-2">
               <Phone className="h-4 w-4 text-accent" />
-              <a href="tel:+263771234567" className="hover:text-accent transition-colors">+263 77 123 4567</a>
+              <a href="tel:+263772969036" className="hover:text-accent transition-colors">+263 77 296 9036</a>
             </li>
             <li className="flex items-center gap-2">
               <Mail className="h-4 w-4 text-accent" />
-              <a href="mailto:info@kwekwekeycentre.com" className="hover:text-accent transition-colors">info@kwekwekeycentre.com</a>
+              <a href="mailto:kwekwekeycentre@gmail.com" className="hover:text-accent transition-colors">kwekwekeycentre@gmail.com</a>
             </li>
             <li className="flex items-start gap-2">
               <MapPin className="h-4 w-4 mt-0.5 text-accent" />
-              <span>Kwekwe, Zimbabwe</span>
+              <span>Shop 1, Shumba Hotel, Kwekwe, Midlands, Zimbabwe</span>
             </li>
           </ul>
         </div>

@@ -27,7 +27,7 @@ const HeroSection = () => (
           </h1>
 
           <p className="mt-5 text-lg leading-relaxed text-primary-foreground/75 sm:text-xl">
-            Fast, reliable car key programming, lock installation, and emergency locksmith services in Kwekwe, Zimbabwe.
+            Fast, reliable car key programming, lock installation, and emergency locksmith services in Shop 1, Shumba Hotel, Kwekwe, Midlands, Zimbabwe.
           </p>
         </motion.div>
 
@@ -37,7 +37,7 @@ const HeroSection = () => (
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          <a href="tel:+263771234567">
+          <a href="tel:+263772969036">
             <Button size="lg" className="gap-2 bg-accent text-accent-foreground hover:bg-accent/90 font-semibold text-base px-8">
               <Phone className="h-5 w-5" />
               Call Now

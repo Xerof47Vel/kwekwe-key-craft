@@ -21,7 +21,7 @@ const Contact = () => {
     <>
       <SEOHead
         title="Contact Kwekwe Key Centre | Get a Free Locksmith Quote"
-        description="Contact Kwekwe Key Centre for fast locksmith services in Kwekwe, Zimbabwe. Call, WhatsApp, or fill out our form for a free quote."
+        description="Contact Kwekwe Key Centre for fast locksmith services in Shop 1, Shumba Hotel, Kwekwe, Midlands, Zimbabwe. Call, WhatsApp, or fill out our form for a free quote."
       />
 
       <section className="bg-primary py-16">
@@ -42,17 +42,17 @@ const Contact = () => {
               <p className="mt-3 text-sm text-muted-foreground">We're available 24/7 for emergencies. For general inquiries, reach us during business hours.</p>
 
               <div className="mt-8 space-y-6">
-                <a href="tel:+263771234567" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
+                <a href="tel:+263772969036" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-secondary text-primary">
                     <Phone className="h-5 w-5" />
                   </div>
                   <div>
                     <p className="text-sm font-semibold text-foreground">Call Us</p>
-                    <p className="text-sm text-muted-foreground">+263 77 123 4567</p>
+                    <p className="text-sm text-muted-foreground">+263 77 296 9036</p>
                   </div>
                 </a>
 
-                <a href="https://wa.me/263771234567" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
+                <a href="https://wa.me/263772969036" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-success/20 text-success">
                     <MessageCircle className="h-5 w-5" />
                   </div>
@@ -62,13 +62,13 @@ const Contact = () => {
                   </div>
                 </a>
 
-                <a href="mailto:info@kwekwekeycentre.com" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
+                <a href="mailto:kwekwekeycentre@gmail.com" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-secondary text-primary">
                     <Mail className="h-5 w-5" />
                   </div>
                   <div>
                     <p className="text-sm font-semibold text-foreground">Email</p>
-                    <p className="text-sm text-muted-foreground">info@kwekwekeycentre.com</p>
+                    <p className="text-sm text-muted-foreground">kwekwekeycentre@gmail.com</p>
                   </div>
                 </a>
 
@@ -78,7 +78,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm font-semibold text-foreground">Location</p>
-                    <p className="text-sm text-muted-foreground">Kwekwe, Zimbabwe</p>
+                    <p className="text-sm text-muted-foreground">Shop 1, Shumba Hotel, Kwekwe, Midlands, Zimbabwe</p>
                   </div>
                 </div>
               </div>

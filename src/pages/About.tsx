@@ -21,7 +21,7 @@ const About = () => (
       <div className="container">
         <motion.div className="mx-auto max-w-2xl text-center" initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}>
           <h1 className="font-display text-4xl font-bold text-primary-foreground sm:text-5xl">About Kwekwe Key Centre</h1>
-          <p className="mt-4 text-lg text-primary-foreground/70">Your trusted locksmith partner in Kwekwe, Zimbabwe — delivering reliable security solutions with professionalism and care.</p>
+          <p className="mt-4 text-lg text-primary-foreground/70">Your trusted locksmith partner in Shop 1, Shumba Hotel, Kwekwe, Midlands, Zimbabwe — delivering reliable security solutions with professionalism and care.</p>
         </motion.div>
       </div>
     </section>

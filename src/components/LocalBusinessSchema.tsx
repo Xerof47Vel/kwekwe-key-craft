@@ -4,9 +4,9 @@ const schema = {
   "@context": "https://schema.org",
   "@type": "Locksmith",
   name: "Kwekwe Key Centre",
-  description: "Professional locksmith services in Kwekwe, Zimbabwe. Car key programming, lock installation, emergency lockout services.",
+  description: "Professional locksmith services in Shop 1, Shumba Hotel, Kwekwe, Midlands, Zimbabwe. Car key programming, lock installation, emergency lockout services.",
   url: "https://kwekwekeycentre.com",
-  telephone: "+263771234567",
+  telephone: "+263772969036",
   address: {
     "@type": "PostalAddress",
     addressLocality: "Kwekwe",
