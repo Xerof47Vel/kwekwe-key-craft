@@ -42,18 +42,18 @@ const Contact = () => {
               <p className="mt-3 text-sm text-muted-foreground">We're available 24/7 for emergencies. For general inquiries, reach us during business hours.</p>
 
               <div className="mt-8 space-y-6">
-                <a href="tel:+263772969036" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
+                <a href="tel:+263716253002" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-secondary text-primary">
                     <Phone className="h-5 w-5" />
                   </div>
                   <div>
                     <p className="text-sm font-semibold text-foreground">Call Us</p>
-                    <p className="text-sm text-muted-foreground">+263 77 296 9036</p>
+                    <p className="text-sm text-muted-foreground">0716253002</p>
                     <p className="text-sm text-muted-foreground">+263 71 625 3002</p>
                   </div>
                 </a>
 
-                <a href="https://wa.me/263772969036" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
+                <a href="https://wa.me/263716253002" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 rounded-lg border border-border bg-card p-4 transition-colors hover:border-primary/30">
                   <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-success/20 text-success">
                     <MessageCircle className="h-5 w-5" />
                   </div>
