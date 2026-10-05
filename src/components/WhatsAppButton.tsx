@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 const WhatsAppButton = () => (
   <motion.a
-    href="https://wa.me/263772969036?text=Hi%2C%20I%20need%20locksmith%20services"
+    href="https://wa.me/263716253002?text=Hi%2C%20I%20need%20locksmith%20services"
     target="_blank"
     rel="noopener noreferrer"
     className="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-success shadow-lg transition-transform hover:scale-110"

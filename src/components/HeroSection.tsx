@@ -37,7 +37,7 @@ const HeroSection = () => (
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          <a href="tel:+263772969036">
+          <a href="tel:+263716253002">
             <Button size="lg" className="gap-2 bg-accent text-accent-foreground hover:bg-accent/90 font-semibold text-base px-8">
               <Phone className="h-5 w-5" />
               Call Now

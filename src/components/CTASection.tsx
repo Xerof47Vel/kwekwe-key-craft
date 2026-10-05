@@ -12,7 +12,7 @@ const CTASection = () => (
         Don't wait — call us now for fast, professional locksmith services. Free estimates on all jobs.
       </p>
       <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
-        <a href="tel:+263772969036">
+        <a href="tel:+263716253002">
           <Button size="lg" className="gap-2 bg-accent text-accent-foreground hover:bg-accent/90 font-semibold px-8">
             <Phone className="h-5 w-5" />
             Call Now
